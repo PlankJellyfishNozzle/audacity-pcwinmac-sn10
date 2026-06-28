@@ -1,4 +1,4 @@
-# 
+# Free Audacity filters for Mac OS | New Audacity filters for PC Windows. Featuring batch-processing and screen-capture — optimized for maximum performance on every platform.
 
 
 
